@@ -12,5 +12,7 @@
     "nameSlug": "uniapp",
     "classFile": "UniappApp.ts",
     "description": "University App for Rocket.Chat",
-    "implements": []
+    "implements": [
+        "IPreMessageSentPrevent"
+    ]
 }
