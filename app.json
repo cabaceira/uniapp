@@ -1,0 +1,15 @@
+{
+    "id": "be9bc36e-2d73-46af-8d47-3b8a75ec1c2c",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Luis Cabaceira",
+        "homepage": "na",
+        "support": "na"
+    },
+    "name": "uniapp",
+    "nameSlug": "uniapp",
+    "classFile": "UniappApp.ts",
+    "description": "University App for Rocket.Chat"
+}
